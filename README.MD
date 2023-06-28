@@ -1,5 +1,5 @@
-                  **Daniel Sanabria Rivera
+**Daniel Sanabria Rivera**
 
- ##Colombia
+## Colombia
 	
-	Colombia :thinking:
+Colombia :angry:
