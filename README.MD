@@ -1,4 +1,4 @@
-                         **Mauricio Bautista**
+**Mauricio Bautista**
 ## Mexico
 
-                Mexico :yum:
+Mexico :yum:
